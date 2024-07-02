@@ -1,0 +1,47 @@
+body{
+    align-content: center;
+    float: none;
+}
+table {
+    margin: auto;
+    padding: 20px;
+}
+tr {
+    margin: 20px;
+}
+td {
+    margin: 20px;
+    border: black solid 1px;
+    width: 30px;
+    height: 30px;
+    font-size: large;
+    text-align: center;
+}
+#header {
+    margin: auto;
+    text-align: center;
+}
+.zero {
+    color: green;
+}
+.one {
+    color: blue;
+}
+.two {
+    color: darkgoldenrod;
+}
+.three {
+    color: darkred;
+}
+.four {
+    color: darkorange;
+}
+.five {
+    color: chartreuse;
+}
+.six {
+    color: deeppink;
+}
+.seven {
+    color: purple;
+}
